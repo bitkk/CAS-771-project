@@ -18,8 +18,12 @@ To train the network in colab:
 This project uses some of the code from:
 
 @inproceedings{tanaka2018joint,
+
     title = {Joint Optimization Framework for Learning with Noisy Labels},
+    
     author = {Tanaka, Daiki and Ikami, Daiki and Yamasaki, Toshihiko and Aizawa, Kiyoharu},
+    
     booktitle = {CVPR},
+    
     year = {2018}
 }
